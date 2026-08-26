@@ -1,7 +1,7 @@
 "use strict";
 // HEY YOU! YES YOU!!11!!1!!1 Use npx tsc before commiting, thanks.
-function GoToProjects() {
-    window.location.replace("http://ecl1pzee.github.io/projects");
+function GoBack() {
+    window.location.replace("http://ecl1pzee.github.io");
     console.log("[i] shouldve redirected now");
 }
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=projects.js.map

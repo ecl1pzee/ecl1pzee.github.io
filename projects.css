@@ -1,0 +1,56 @@
+body {
+    background-color: #282828;
+    font-family: sans-serif;
+}
+
+.ProjectHeader1 {
+    color: #ebdbb2;
+    margin: 30px 35px 35px;
+    margin-top: -20px;
+}
+
+.GoBackButton {
+    margin: 36px;
+    background-color: #d65d0e;
+    block-size: 32px;
+    border-radius: 16px;
+    padding: 8px 16px;
+    border: none;
+    transition: all 0.2s ease;
+}
+
+.GoBackButton:hover {
+    background-color: #fabd2f;
+}
+
+.project-card {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 35px;
+    padding: 20px;
+    border: 1px solid #504945;
+    border-radius: 8px;
+}
+
+.project-card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.project-info h2 {
+    color: #ebdbb2;
+    margin: 0px 0px 8px;
+}
+
+.project-info p {
+    color: #a89984;
+    margin: 0;
+}
+
+.project-card .project-image-kinit {
+    width: 1000px; /*haha rule34.xxx its funny 'cause its porn*/
+    height: 110px;
+}
