@@ -1,0 +1,29 @@
+{
+  "name": "ecl1pzee.github.io",
+  "version": "1.2.0",
+  "description": "My portfolio!",
+  "keywords": [
+    "portfolio",
+    "web",
+    "developer",
+    "www"
+  ],
+  "homepage": "https://github.com/ecl1pzee/ecl1pzee.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/ecl1pzee/ecl1pzee.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecl1pzee/ecl1pzee.github.io.git"
+  },
+  "license": "BSD-2-Clause",
+  "author": "Daniel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"hi\")"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

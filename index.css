@@ -1,0 +1,53 @@
+body {
+    background-color: #282828;
+    font-family: sans-serif;
+}
+
+.introduction .FirstGreeting {
+    color: #ebdbb2;
+    font-size: 36px;
+    line-height: 35px;
+}
+
+.introduction .waving-hand {
+    width: 32px;
+    height: 32px;
+    margin: 0px 0px 15px 20px;
+    float: left;
+}
+
+.introduction .FirstText {
+    font-size: 18px;
+    margin: 35px;
+    color: #a89984;
+    line-height: 0px;
+}
+
+.introduction .SecondText {
+    font-size: 18px;
+    margin: 35px;
+    color: #a89984;
+    line-height: 0px;
+}
+
+.introduction .ThirdText {
+    font-size: 18px;
+    margin: 35px;
+    color: #a89984;
+    line-height: 0px;
+}
+
+.External .button {
+    margin: 35px;
+    background-color: #d65d0e;
+    block-size: 32px;
+    border-radius: 16px;
+    padding: 8px 16px;
+    border: none;
+    transition: all 0.2s ease;
+    margin-top: -10px;
+}
+
+.External .button:hover {
+    background-color: #fabd2f;
+}
