@@ -51,3 +51,14 @@ body {
 .External .button:hover {
     background-color: #fabd2f;
 }
+
+.FourthText {
+    font-size: 18px;
+    margin: 35px;
+    color: #a89984;
+    line-height: 0px;
+}
+
+.buttons {
+    margin: 35px;
+}
