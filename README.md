@@ -4,3 +4,10 @@ my dev portfolio (?) also a page for me and aurelius' projects
 open a PR / issue containing the link to your button, make sure it fits with the size though
 # But, how do I make my own button?
 check out https://88x31.datakra.sh/
+
+
+
+# WHY IS IT IN TYPESCRIPT?????
+im delusioanl
+delusional
+yes
